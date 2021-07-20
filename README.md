@@ -1,13 +1,15 @@
 # fluffy-octo-couscous
-this is a wip python OS-like program
+this is a wip python "OS" program
+
 features-
-hard to explain
+you can add your own programs easilyish- see wiki
+secure hashed logon system- defaults to admin admin
+
 planned-
-let people add their own programs as addons
-make it more orgnaized
-make logon work, and securely
-fix filesystem
-add app installer/updater
-make linux/macos compatible
+
+add app installer/updater (built in to core app code)
+
+make linux/macos compatible (too lazy to)
+
 
 put any suggestions/bug fixes in the issues!
