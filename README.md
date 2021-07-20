@@ -3,6 +3,7 @@ this is a wip python "OS" program
 
 features-
 you can add your own programs easilyish- see wiki
+
 secure hashed logon system- defaults to admin admin
 
 planned-
