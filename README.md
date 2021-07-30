@@ -15,3 +15,5 @@ make linux/macos compatible (too lazy to)
 Rebrand as snakehole maybe
 
 Add gui- probably tkinter or whatever it is called
+
+  and maybe also pygame
