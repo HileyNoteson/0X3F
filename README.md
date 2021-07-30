@@ -1,4 +1,4 @@
-# fluffy-octo-couscous
+# 0x3f
 this is a wip python "OS" program
 
 features-
@@ -12,5 +12,6 @@ add app installer/updater (built in to core app code)
 
 make linux/macos compatible (too lazy to)
 
+Rebrand as snakehole maybe
 
-put any suggestions/bug fixes in the issues!
+Add gui- probably tkinter or whatever it is called
