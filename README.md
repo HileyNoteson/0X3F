@@ -13,6 +13,7 @@ add app installer/updater (built in to core app code)
 make linux/macos compatible (too lazy to)
 
 Rebrand as snakehole maybe
+  if gui stuff is good enough might make a fork for it and make this not recieve any more updates
 
 Add gui- probably tkinter or whatever it is called
 
